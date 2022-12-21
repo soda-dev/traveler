@@ -1,9 +1,9 @@
 global._STORE_ = 'traveler';
-global._APN = 'curiosity-server-b99ff.appspot.com';
-global._SEMILLA = '87364583b873264b8723648597634';
+global._APN = '';
+global._SEMILLA = '';
 
-global._KEY_MAPA_GOOGLE = 'AIzaSyBVJKjuIwc-YQO2_AfefJlSG-wj4FSKlZY';
-global._KEY_MAPA_HERE = 'O7k4Hi8BaFskdX3yiDflLsqw89UihPVDREcGbBAPA5A';
+global._KEY_MAPA_GOOGLE = '';
+global._KEY_MAPA_HERE = '';
 
 global._ID_APP_1 = 1000001;
 global._ID_EXPLORER_APP_1 = 100050;
@@ -37,4 +37,4 @@ global._TIPO_CONDUCTOR = 2;
 
 global._TIPO_ENCOMIENDA = 4;
 global._TIME_ZONE = 'America/Guayaquil';
-global._MENSJAE_BLOQUEADO = `Usuario bloqueado, si crees que es un error comunicate a info@planck.biz`;
+global._MENSJAE_BLOQUEADO = `Usuario bloqueado`;
